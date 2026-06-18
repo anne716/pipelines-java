@@ -2,6 +2,10 @@
 
 [![Build Status](https://dev.azure.com/appdev-upskilling-fy2601/anna.n.m.gabriento/_apis/build/status%2Fanne716.pipelines-java?branchName=main)](https://dev.azure.com/appdev-upskilling-fy2601/anna.n.m.gabriento/_build/latest?definitionId=460&branchName=main)
 
+# Pull Request Test Message
+
+This is a message to test the pull request trigger into the branch with **feature/** prefix.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
