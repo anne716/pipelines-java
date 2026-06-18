@@ -7,6 +7,10 @@ trigger:
 - main
 - feature/*
 
+pr:
+- main
+- feature/*
+
 pool:
   vmImage: ubuntu-latest
 
